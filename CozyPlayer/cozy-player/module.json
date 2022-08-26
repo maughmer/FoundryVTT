@@ -20,6 +20,6 @@
   
   "url": "https://github.com/psyny/FoundryVTT/tree/master/CozyPlayer",
 	"manifest": "https://github.com/maughmer/FoundryVTT/master/CozyPlayer/cozy-player/module.json",
-	"download": "https://github.com/maughmer/FoundryVTT/blob/master/CozyPlayer/cozy-player.zip"
+	"download": "https://github.com/maughmer/FoundryVTT/raw/master/CozyPlayer/cozy-player.zip"
 }
 
